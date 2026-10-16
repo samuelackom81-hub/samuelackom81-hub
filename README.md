@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Samuel Ackom! 👋
 
-<!--
-**samuelackom81-hub/samuelackom81-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Network Engineer** based in **Dunfermline, Scotland**. I'm self-taught and developing my IT and networking knowledge through continuous learning and practical experience. I'm currently building my skills with **10Alytics**, with a focus on networking fundamentals, troubleshooting, and network configuration.
 
-Here are some ideas to get you started:
+## 📚 What I'm Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Cisco Networking** and networking fundamentals
+- 🔢 **IP Addressing and Subnetting**
+- 🔌 Network configuration and troubleshooting
+- 🛡️ Understanding network security and best practices
+
+## 🛠️ Skills and Tools
+
+- **Networking:** Networking fundamentals, IP addressing, subnetting
+- **Cisco:** Learning Cisco networking and network configuration
+- **Tools:** Cisco Packet Tracer, Wireshark
+- **Operating Systems:** Windows
+- **Learning:** Hands-on labs, troubleshooting, and practical IT projects
+
+## 🎯 My Goals
+
+- Become a skilled and professional **Network Engineer**
+- Earn my **Cisco Certified Network Associate (CCNA)** certification
+- Build practical networking experience through home labs and projects
+- Strengthen my troubleshooting and network security skills
+- Connect with other IT professionals and continue growing in the tech community
+
+## ⚽ Fun Fact
+
+I enjoy **football** and building **home labs** to explore networking concepts and gain hands-on experience. I believe the best way to learn is by combining theory with practice!
+
+## 📫 How to Reach Me
+
+- **Location:** Dunfermline, Scotland
+- **LinkedIn:** https://www.linkedin.com/feed/
+- **Email:** samuelackom@gmail.com
+
+---
+
+⭐ *I'm always learning, building, and working towards my goal of becoming a Network Engineer. Feel free to explore my repositories and follow my journey!*
