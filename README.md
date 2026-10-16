@@ -17,6 +17,10 @@ I'm an aspiring **Network Engineer** based in **Dunfermline, Scotland**. I'm sel
 - **Operating Systems:** Windows
 - **Learning:** Hands-on labs, troubleshooting, and practical IT projects
 
+## 🚀 Projects
+
+- **Networking Project:** I have a networking project on GitHub where I demonstrate my learning and practical networking skills. Check out my repositories to explore my work.
+
 ## 🎯 My Goals
 
 - Become a skilled and professional **Network Engineer**
@@ -32,8 +36,8 @@ I enjoy **football** and building **home labs** to explore networking concepts a
 ## 📫 How to Reach Me
 
 - **Location:** Dunfermline, Scotland
-- **LinkedIn:** https://www.linkedin.com/feed/
-- **Email:** samuelackom@gmail.com
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/feed/)
+- **Email:** samuelackom81@gmail.com
 
 ---
 
